@@ -6,7 +6,7 @@ Some code was not written by myself and I have included the relevant licenses in
 
 # Reproducing Results
 
-The experiments in my dissertation were performed using MATLAB R2015a running Fedora 21 Linux. We use a single thread per physical core and thus no hyper-threading was used. Reproducing results may be difficult in future releases of MATLAB since we use the function maxNumCompThreads to set the maximum number of computation threads in the experiments which is to be removed.
+The experiments in my dissertation were performed using MATLAB R2015a running Fedora 21 Linux. A single thread per physical core was used and thus no hyper-threading. Reproducing results may be difficult in future releases of MATLAB since we use the function maxNumCompThreads to set the maximum number of computational threads in the experiments which is to be removed.
 
 # Acknowledgements
 
