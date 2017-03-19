@@ -1,6 +1,6 @@
 # CEM_dissertation
 
-The code in this package was developed as apart of my dissertation at The University of Manchester entitled "Shrinking For Restoring Definiteness" which is set to appear on MIMS EPrint. The abstract can be found at http://wp.me/p4w2Pn-5D
+The code in this package was developed as apart of my dissertation at The University of Manchester entitled "Shrinking For Restoring Definiteness" supervised by Professor Nicholas J. Higham and Dr Craig Lucas (The Numerical Algorithms Group).
 
 Some code was not written by myself and I have included the relevant licenses in the source code of those functions.
 
