@@ -9,7 +9,7 @@ function X = nearpsd_fro(G)
 %
 %   By C. E. Mower, 03/08/2015.
 %
-
+    
 [Q, D] = eig(G);
 X = Q*diag(max(diag(D),0))*Q';
 X = (X + X') / 2; % ensure symmetry
